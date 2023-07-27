@@ -1,0 +1,40 @@
+*{
+    text-align: center;
+    font-size: 30px;
+    font-family: Helvetica;
+  }
+  
+  .calcular{
+    margin: auto;
+    color: black;
+    background-color: lightblue;
+    border: 20px;
+    padding: 15px;
+    width: 50%;
+    border-color: black;
+  }
+  
+  .borda{
+    background-color: rgb(99, 219, 253);
+    color: black;
+    border: 20px;
+    padding: 15px;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    border: 5px solid blue;
+  }
+  .isso{
+    width: 80%;
+  }
+  
+  #resultado{
+    background-color: #eee;
+    width: 600px;
+    margin-left: 330px;
+  }
+
+  .buton{
+    background-color: #eee;
+    border: 2px solid blue;
+  }
